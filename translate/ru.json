@@ -1,6 +1,6 @@
 [
     [
-        ["login.server", "Сервер: ТЕСТ"],
+        ["login.server", "Сервер:"],
         ["login.online", "Игроки:"],
         ["login.feature1", "Лёгкий & PVP"],
         ["login.feature2", "Лут x3"],

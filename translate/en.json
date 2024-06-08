@@ -1,6 +1,6 @@
 [
     [
-        ["login.server", "Server: TEST"],
+        ["login.server", "Server:"],
         ["login.online", "Players:"],
         ["login.feature1", "Easy & PVP"],
         ["login.feature2", "Loot x3"],
