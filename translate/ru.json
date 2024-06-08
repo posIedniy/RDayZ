@@ -7,6 +7,11 @@
         ["login.feature3", "Медленные зомби"],
         ["login.feature4", "161 Транспортных единиц"],
         ["login.selecte", "Выберите язык:"],
-        ["login.play", "Играть"]
+        ["login.play", "Играть"], 
+        ["login.statistics", "Статистика сервера:"],
+        ["login.statistics1", "Всего зарегистрировано:"],
+        ["login.statistics2", "Всего подключившихся:"],
+        ["login.statistics3", "Авторизация сегодня:"],
+        ["login.statistics4", "Уникальных игроков сегодня:"]
     ]
 ]
