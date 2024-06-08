@@ -1,7 +1,7 @@
 [
     [
         ["login.server", "Server: TEST"],
-        ["login.online", "Online: 0/80"],
+        ["login.online", "Players: 0/80"],
         ["login.feature1", "Easy & PVP"],
         ["login.feature2", "Loot x3"],
         ["login.feature3", "Slow zombies"],
