@@ -1,7 +1,7 @@
 [
     [
         ["login.server", "Сервер: ТЕСТ"],
-        ["login.online", "Игроки: 0/80"],
+        ["login.online", "Игроки:"],
         ["login.feature1", "Лёгкий & PVP"],
         ["login.feature2", "Лут x3"],
         ["login.feature3", "Медленные зомби"],
