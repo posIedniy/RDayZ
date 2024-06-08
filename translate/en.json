@@ -6,6 +6,7 @@
         ["login.feature2", "Loot x3"],
         ["login.feature3", "Slow zombies"],
         ["login.feature4", "161 Transport units"],
-        ["login.selecte", "Select a language:"]
+        ["login.selecte", "Select a language:"],
+        ["login.play", "Play"]
     ]
 ]

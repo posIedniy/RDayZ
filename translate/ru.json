@@ -1,11 +1,12 @@
 [
     [
         ["login.server", "Сервер: ТЕСТ"],
-        ["login.online", "Онлайн: 0/80"],
+        ["login.online", "Игроки: 0/80"],
         ["login.feature1", "Лёгкий & PVP"],
         ["login.feature2", "Лут x3"],
         ["login.feature3", "Медленные зомби"],
         ["login.feature4", "161 Транспортных единиц"],
-        ["login.selecte", "Выберите язык:"]
+        ["login.selecte", "Выберите язык:"],
+        ["login.play", "Играть"]
     ]
 ]
