@@ -1,6 +1,6 @@
 [
     [
-        ["login.server", "Server: гавно"],
+        ["login.server", "Server: Test"],
         ["login.online", "Players: 0/80"],
         ["login.feature1", "Easy & PVP"],
         ["login.feature2", "Loot x3"],
