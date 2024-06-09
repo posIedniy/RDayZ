@@ -1,22 +1,17 @@
 [
     [
-        ["login.server", "Server: Test"],
-        ["login.online", "Players: 0/80"],
-        ["login.feature1", "Easy & PVP"],
-        ["login.feature2", "Loot x3"],
-        ["login.feature3", "Slow zombies"],
-        ["login.feature4", "161 Transport units"],
-        ["login.selecte", "Select a language:"],
-        ["login.play", "Play"],
-        ["login.statistics", "Server statistics:"],
-        ["login.statistics1", "Total registered:"],
-        ["login.statistics2", "Total connected users:"],
-        ["login.statistics3", "Authorization today:"],
-        ["login.statistics4", "Unique players today:"],
-        ["          ", "          "],
-        ["          ", "          "],
-        ["          ", "          "],
-        ["          ", "          "],
-        ["          ", "          "]
+        ["login.server", "Сервер: гавно"],
+        ["login.online", "Игроков: 0/80"],
+        ["login.feature1", "Лёгкий & PVP"],
+        ["login.feature2", "Лут x3"],
+        ["login.feature3", "Медленные зомби"],
+        ["login.feature4", "161 Транспортных единиц"],
+        ["login.selecte", "Выберите язык:"],
+        ["login.play", "Играть"], 
+        ["login.statistics", "Статистика сервера:"],
+        ["login.statistics1", "Всего зарегистрировано:"],
+        ["login.statistics2", "Всего подключившихся:"],
+        ["login.statistics3", "Авторизация сегодня:"],
+        ["login.statistics4", "Уникальных игроков сегодня:"]
     ]
 ]
