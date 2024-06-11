@@ -12,6 +12,7 @@
         ["login.statistics1", "Total registered:"],
         ["login.statistics2", "Total connected users:"],
         ["login.statistics3", "Authorization today:"],
-        ["login.statistics4", "Unique players today:"]
+        ["login.statistics4", "Unique players today:"],
+        ["deathscreen.info", "You're dead! You will be reborn after the timer ends."] 
     ]
 ]
