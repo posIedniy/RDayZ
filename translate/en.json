@@ -13,6 +13,15 @@
         ["login.statistics2", "Total connected users:"],
         ["login.statistics3", "Authorization today:"],
         ["login.statistics4", "Unique players today:"],
-        ["deathscreen.info", "You're dead! The rebirth will occur at the end of the timer."] 
+        ["deathscreen.info", "You're dead! The rebirth will occur at the end of the timer."],
+        ["chatmode.local", "Talk"],
+        ["chatmode.global", "Global"],
+        ["chatmode.shout", "Shout"],
+        ["chatmode.whisp", "Whisper"],
+        ["chatmode.action", "Action"],
+        ["chatmode.switchkey", "Click %s to change it."],
+        ["chatmode.template.local", "%s talk"],
+        ["chatmode.template.shout", "%s shout"],
+        ["chatmode.template.whisp", "%s whisper"]
     ]
 ]
