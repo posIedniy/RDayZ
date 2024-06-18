@@ -13,6 +13,15 @@
         ["login.statistics2", "Всего подключившихся:"],
         ["login.statistics3", "Авторизация сегодня:"],
         ["login.statistics4", "Уникальных игроков сегодня:"],
-        ["deathscreen.info", "Вы погибли! Возрождение произойдёт по окончании таймера."]
+        ["deathscreen.info", "Вы погибли! Возрождение произойдёт по окончании таймера."],
+        ["chatmode.local", "Говорить"],
+        ["chatmode.global", "Общий"],
+        ["chatmode.shout", "Крикнуть"],
+        ["chatmode.whisp", "Шепнуть"],
+        ["chatmode.action", "Действие"],
+        ["chatmode.switchkey", "Нажмите %s чтобы изменить."],
+        ["chatmode.template.local", "%s сказал"],
+        ["chatmode.template.shout", "%s крикнул"],
+        ["chatmode.template.whisp", "%s шепнул"]
     ]
 ]
