@@ -1,6 +1,5 @@
 [
     [
-        ["login.server", "Сервер: Test"],
         ["login.online", "Игроков: 0/80"],
         ["login.selecte", "Выберите язык:"],
         ["login.play", "Играть"], 

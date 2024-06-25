@@ -1,6 +1,5 @@
 [
     [
-        ["login.server", "Server: Test"],
         ["login.online", "Players: 0/80"],
         ["login.selecte", "Select a language:"],
         ["login.play", "Play"],
