@@ -1,6 +1,5 @@
 [
     [
-        ["login.online", "Players: 0/80"],
         ["login.selecte", "Select a language:"],
         ["login.play", "Play"],
         ["deathscreen.info", "You're dead! The rebirth will occur at the end of the timer."],
