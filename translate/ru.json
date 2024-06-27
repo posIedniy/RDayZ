@@ -22,6 +22,8 @@
         ["chatmode.switchkey", "Нажмите %s чтобы изменить."],
         ["chatmode.template.local", "сказал"],
         ["chatmode.template.shout", "крикнул"],
-        ["chatmode.template.whisp", "шепнул"]
+        ["chatmode.template.whisp", "шепнул"],
+        ["chatmode.player.join", "подключился к серверу."],
+        ["chatmode.player.leave", "отключился от сервера [Выход]."]
     ]
 ]
