@@ -1,7 +1,18 @@
 [
     [
+        ["login.server", "Сервер: Test"],
+        ["login.online", "Игроков: 0/80"],
+        ["login.feature1", "Лёгкий & PVP"],
+        ["login.feature2", "Лут x3"],
+        ["login.feature3", "Медленные зомби"],
+        ["login.feature4", "161 Транспортных единиц"],
         ["login.selecte", "Выберите язык:"],
         ["login.play", "Играть"], 
+        ["login.statistics", "Статистика сервера:"],
+        ["login.statistics1", "Всего зарегистрировано:"],
+        ["login.statistics2", "Всего подключившихся:"],
+        ["login.statistics3", "Авторизация сегодня:"],
+        ["login.statistics4", "Уникальных игроков сегодня:"],
         ["deathscreen.info", "Вы погибли! Возрождение произойдёт по окончании таймера."],
         ["chatmode.local", "Говорить"],
         ["chatmode.global", "Общий"],
@@ -9,8 +20,8 @@
         ["chatmode.whisp", "Шепнуть"],
         ["chatmode.action", "Действие"],
         ["chatmode.switchkey", "Нажмите %s чтобы изменить."],
-        ["chatmode.template.local", "%s сказал"],
-        ["chatmode.template.shout", "%s крикнул"],
-        ["chatmode.template.whisp", "%s шепнул"]
+        ["chatmode.template.local", "сказал"],
+        ["chatmode.template.shout", "крикнул"],
+        ["chatmode.template.whisp", "шепнул"]
     ]
 ]
