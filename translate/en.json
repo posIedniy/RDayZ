@@ -23,7 +23,7 @@
         ["chatmode.template.local", "talk"],
         ["chatmode.template.shout", "shout"],
         ["chatmode.template.whisp", "whisper"],
-        ["chatmode.player.join", "connected to the server."],
-        ["chatmode.player.leave", "disconnected from the server [Exit]."]
+        ["chatmode.player.join", "%s connected to the server."],
+        ["chatmode.player.leave", "%s disconnected from the server [Exit]."]
     ]
 ]
