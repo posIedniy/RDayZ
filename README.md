@@ -9,7 +9,7 @@ https://github.com/PosledniyZlodey/RDayZ-Dev (Private)
 ### Other links:
 
 - VK: (Coming)
-- Discord: (Coming) 
+- Discord: https://discord.gg/bPVXk8NM5N
 
 # Translating
 
