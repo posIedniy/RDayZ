@@ -16,3 +16,4 @@ https://github.com/PosledniyZlodey/RDayZ-Dev (Private)
 **1.** Do not remove the **%s** parts from text. It used for text formatting.
 
 # Contributors
+@PosledniyZlodey
