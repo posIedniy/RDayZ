@@ -1,18 +1,5 @@
 [
     [
-        ["login.server", "Server: Test"],
-        ["login.online", "Players: 0/80"],
-        ["login.feature1", "Easy & PVP"],
-        ["login.feature2", "Loot x3"],
-        ["login.feature3", "Slow zombies"],
-        ["login.feature4", "161 Transport units"],
-        ["login.selecte", "Select a language:"],
-        ["login.play", "Play"],
-        ["login.statistics", "Server statistics:"],
-        ["login.statistics1", "Total registered:"],
-        ["login.statistics2", "Total connected users:"],
-        ["login.statistics3", "Authorization today:"],
-        ["login.statistics4", "Unique players today:"],
         ["deathscreen.info", "You're dead! The rebirth will occur at the end of the timer."],
         ["chatmode.local", "Talk"],
         ["chatmode.global", "Global"],
