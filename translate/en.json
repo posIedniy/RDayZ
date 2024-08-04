@@ -24,6 +24,6 @@
         ["chatmode.template.shout", "shout"],
         ["chatmode.template.whisp", "whisper"],
         ["chatmode.player.join", "%s connected to the server."],
-        ["chatmode.player.leave", "%s disconnected from the server [Quit]."],
+        ["chatmode.player.leave", "%s disconnected from the server [Quit]."]
     ]
 ]
