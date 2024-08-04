@@ -25,6 +25,5 @@
         ["chatmode.template.whisp", "whisper"],
         ["chatmode.player.join", "%s connected to the server."],
         ["chatmode.player.leave", "%s disconnected from the server [Quit]."],
-        ["command.muted", "You has been muted"]
     ]
 ]
