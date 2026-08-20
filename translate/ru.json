@@ -46,7 +46,10 @@
     ["scoreboard.vote_up", "Нажмите чтобы повысить рейтинг этого игрока на +%s."],
     ["scoreboard.vote_down", "Нажмите чтобы снизить рейтинг этого игрока на -%s."],
     ["scoreboard.vote_rules", "Вы можете менять рейтинг других игроков только 1 раз в сутки.\nВы не можете менять рейтинг одного и того же игрока 2 дня подряд."],
+    ["scoreboard.vote_self", "Вы не можете изменить свою репутацию."],
 
+    ["debug.title", "Debug Monitor"],
+    ["debug.globaltitle", "Global Stats"],
     ["debug.zombies", "Убито зомби: %s"],
     ["debug.murders", "Мародёрства: %s"],
     ["debug.headshots", "В голову: %s"],
@@ -56,8 +59,7 @@
     ["debug.deaths", "Смертей: %s"],
     ["debug.playtime", "Время игры: %s"],
 
-    ["hints.globalstats.on", "Показать Global Stats."],
-    ["hints.globalstats.off", "Спрятать Global Stats."],
+    ["hints.globalstats", "%s Global Stats"],
     ["hints.scoreboard", "%s Список игроков"],
     ["hints.gps", "%s GPS"],
     ["hints.gps.mode", "%s Режим GPS"],
